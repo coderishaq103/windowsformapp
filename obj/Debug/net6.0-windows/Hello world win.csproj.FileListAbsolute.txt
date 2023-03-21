@@ -1,0 +1,17 @@
+C:\Users\Raja Ishaq\source\repos\Hello world win\bin\Debug\net6.0-windows\Hello world win.exe
+C:\Users\Raja Ishaq\source\repos\Hello world win\bin\Debug\net6.0-windows\Hello world win.deps.json
+C:\Users\Raja Ishaq\source\repos\Hello world win\bin\Debug\net6.0-windows\Hello world win.runtimeconfig.json
+C:\Users\Raja Ishaq\source\repos\Hello world win\bin\Debug\net6.0-windows\Hello world win.dll
+C:\Users\Raja Ishaq\source\repos\Hello world win\bin\Debug\net6.0-windows\Hello world win.pdb
+C:\Users\Raja Ishaq\source\repos\Hello world win\obj\Debug\net6.0-windows\Hello world win.csproj.AssemblyReference.cache
+C:\Users\Raja Ishaq\source\repos\Hello world win\obj\Debug\net6.0-windows\Hello_world_win.Form1.resources
+C:\Users\Raja Ishaq\source\repos\Hello world win\obj\Debug\net6.0-windows\Hello world win.csproj.GenerateResource.cache
+C:\Users\Raja Ishaq\source\repos\Hello world win\obj\Debug\net6.0-windows\Hello world win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raja Ishaq\source\repos\Hello world win\obj\Debug\net6.0-windows\Hello world win.AssemblyInfoInputs.cache
+C:\Users\Raja Ishaq\source\repos\Hello world win\obj\Debug\net6.0-windows\Hello world win.AssemblyInfo.cs
+C:\Users\Raja Ishaq\source\repos\Hello world win\obj\Debug\net6.0-windows\Hello world win.csproj.CoreCompileInputs.cache
+C:\Users\Raja Ishaq\source\repos\Hello world win\obj\Debug\net6.0-windows\Hello world win.dll
+C:\Users\Raja Ishaq\source\repos\Hello world win\obj\Debug\net6.0-windows\refint\Hello world win.dll
+C:\Users\Raja Ishaq\source\repos\Hello world win\obj\Debug\net6.0-windows\Hello world win.pdb
+C:\Users\Raja Ishaq\source\repos\Hello world win\obj\Debug\net6.0-windows\Hello world win.genruntimeconfig.cache
+C:\Users\Raja Ishaq\source\repos\Hello world win\obj\Debug\net6.0-windows\ref\Hello world win.dll
